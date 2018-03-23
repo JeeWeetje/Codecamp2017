@@ -1,5 +1,5 @@
-# From device to actionable insights with the Azure IoT platform 
-## LoRa - Azure IoT Hands-on Lab
+# From device to actionable insights with LoRa and Azure IoT platform 
+## LoRa - Azure IoT Hands-on Lab / Workshop
 
 In this hands-on lab you will be creating the complete chain from configuring, to bridging the cap between the connectivity providers clouds and the Microsoft Azure IoT platform, creating actionable insights on the Microsoft Azure IoT platform and sending commands all the way back to the device. 
 This includes assembling hardware, configuring hardware and software and coding the missing logic to a complete IoT solution.
@@ -8,12 +8,12 @@ You will be creating all components to get the malfunctioning machine back up ru
 All of that within 2-4 hours (2 hours is minimum). 
 
 Technologies used during the hands-on lab; 
-� Arduino development boards The Things Uno (LoRa enabled Arduino Leonardo) 
-� Software emulated devices/sensors (in Java, NodeJS or C# (UWP)) 
-� Sensors (button and LED light bar)
-� LoRa & Lora WAN 
-� The Things Network cloud
-� Microsoft Azure IoT Platform (including Azure Web Jobs, Azure IoT Hub, Azure Stream analytics, Azure Event hub, Azure blob storage and Azure Functions)
+* Arduino development boards The Things Uno (LoRa enabled Arduino Leonardo) 
+* Software emulated devices/sensors (in Java, NodeJS or C# (UWP)) 
+* Sensors (button and LED light bar)
+* LoRa & Lora WAN 
+* The Things Network cloud
+* Microsoft Azure IoT Platform (including Azure Web Jobs, Azure IoT Hub, Azure Stream analytics, Azure Event hub, Azure blob storage and Azure Functions)
 
 This hands-on lab will be guided by Valery Jacobs & Jan Willem Groenenberg & Sander van de Velde, so attendees have on site support for questions. 
 
